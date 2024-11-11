@@ -1,0 +1,4 @@
+*.sqlite*
+
+# Comando pra rodar seeder
+# php artisan db:seed --class=UsersTableSeeder
